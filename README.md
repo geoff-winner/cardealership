@@ -2,7 +2,7 @@
 Geoff Winner, Jill Kuchman
 
 ###Date
-April 9, 2015<br />
+March 2, 2015<br />
 
 ###Description
 Car Dealership App. Lists out types of cars that are available. Learning the basics of PHP.
