@@ -1,5 +1,5 @@
 ###Developers
-Abeer Khakwani, Geoff WInner
+Geoff WInner
 
 ###Date
 April 9, 2015<br />
